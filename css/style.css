@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav li a {
+    text-decoration: none;
+    color: red    
+}
+.nav li {
+    list-style: none;
+}
+.social li a {
+    text-decoration: none;
+    color: blue;
+}
+.social li{
+    list-style: none;
+}
+body{
+    background-image: url(../image/paper.gif);
+}
+.sag{
+    position: absolute;
+    bottom: 265px;
+    left: 660px;
+}
+h1{
+    text-align: right;
+}
