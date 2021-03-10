@@ -26,5 +26,37 @@ body{
     left: 660px;
 }
 h1{
-    text-align: right;
+    text-align: center
+}
+.yazi{
+position: absolute;
+bottom: 320px;
+left: 550px;
+}
+.vaxt{
+   position: absolute;
+   top: 360px;
+   left: 360px
+}
+.son{
+    position: absolute;
+    left: 450px;
+}
+h2{
+    text-align: center;
+}
+.mulk{
+    position: absolute;
+right: 10px;
+bottom: 20px;
+}
+.ixlas{
+    position: absolute;
+    left: 5px;
+    bottom: 10px;
+}
+.sure{
+    position: absolute;
+    right: 74px;
+    text-align: left;
 }
